@@ -5,16 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.snowball.finder</groupId>
-    <artifactId>finderSkill</artifactId>
+    <artifactId>finder-skill</artifactId>
     <version>1.0-SNAPSHOT</version>
-
-    <!--<repositories>-->
-        <!--<repository>-->
-            <!--<id>localRepo</id>-->
-            <!--<name>localRepo</name>-->
-            <!--<url>file://${project.basedir}/lib</url>-->
-        <!--</repository>-->
-    <!--</repositories>-->
 
     <build>
         <plugins>
