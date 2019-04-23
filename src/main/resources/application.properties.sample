@@ -1,0 +1,4 @@
+transportApi.endpoint=
+transportApi.username=
+transportApi.password=
+persistent.dynamoDB.table=Finder
