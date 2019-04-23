@@ -1,7 +1,7 @@
 # finderSkill
 Amazon Alexa skill that calls the [finder-service](https://github.com/darrylms/finder-service).
 
-It implements ASK SDK 2 and requires a copy of the [transport-api](https://github.com/darrylms/transport-api) in the local Maven repository (see the [pom](pom.xml) file).
+It is built with [ASK SDK 2](https://docs.aws.amazon.com/sdk-for-java/v2/developer-guide/welcome.html) and requires a copy of the [transport-api](https://github.com/darrylms/transport-api) in the local Maven repository (see the [pom](pom.xml) file).
 
 # Alexa voice model
 
