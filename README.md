@@ -19,7 +19,7 @@ Some other things to try:
 - `plan a journey`
 - `get me home`
 
-If either the start point or the destination is missing, Alexa will prompt you for each of these with questions like:
+If either the start point or the destination is missing, Alexa will prompt for each of these with questions like:
 
 **Where are you travelling from?**
 
@@ -56,7 +56,7 @@ If you do not like the route Alexa has chosen, you can respond with
 
 **Alexa:** Great, taking a look.
 
-(processes response)
+(processing response)
        
 This journey takes 34 minutes. Walk for 10 minutes to Oxford Circus. Then, take the Central line to Bond Street. From there, take the Jubilee line to London Bridge. And then, walk for 9 minutes to 9 Stoney Street, Southwark.
 
@@ -64,7 +64,7 @@ This journey takes 34 minutes. Walk for 10 minutes to Oxford Circus. Then, take 
 
 **Alexa:** No problem, I'll see if there's another way.
     
-(processes response)
+(processing response)
     
 This journey takes 35 minutes. Walk for 10 minutes to Oxford Circus. From there, take the Bakerloo line to Waterloo. After that, take the Jubilee line to London Bridge. Next, walk for 9 minutes to 9 Stoney Street, Southwark.
 
@@ -72,7 +72,7 @@ This journey takes 35 minutes. Walk for 10 minutes to Oxford Circus. From there,
 
 **Alexa:** Looking for an alternate route.
 
-(processes response)
+(processing response)
 
 This journey takes 34 minutes. Walk for 17 minutes to Bond Street Station. Then after that, take the Jubilee line to London Bridge. And then, walk for 9 minutes to 9 Stoney Street, Southwark.
 
